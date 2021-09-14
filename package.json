@@ -1,0 +1,24 @@
+{
+    "name": "d",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon src/server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aizada869-nazarova/D2-M5.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aizada869-nazarova/D2-M5/issues"
+    },
+    "homepage": "https://github.com/aizada869-nazarova/D2-M5#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
